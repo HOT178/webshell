@@ -33,3 +33,6 @@ aspx_D_webshell.py<br>
 ## 更新日志 2021/4/22
 
 万众瞩目的jsp生成器它来了<br>
+
+php_webshell.py use:GET:http://url?pass=pureqh POST:zero
+php_D_webshell.py  use: POST:zero
